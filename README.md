@@ -1,5 +1,4 @@
-### Hi there 👋
+#
 
-- 🌱 I’m currently learning
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![Yassin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassin-Askar&count_private=true&show_icons=true&theme=radical)
+[![Yassin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YassinAskar)](https://github.com/anuraghazra/github-readme-stats)
