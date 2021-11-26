@@ -5,5 +5,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/760f102a-9df0-40ed-afa6-ea87f82d08ef.svg)](https://wakatime.com/@760f102a-9df0-40ed-afa6-ea87f82d08ef)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?link=http://left&link=https://www.linkedin.com/in/yassin-a-askar/)
