@@ -11,14 +11,15 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"style="  border-radius: 5%;"/>
   </a>
-</div>
-<div >
-<h1  align="center" >
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="20px" hight="20px" />
-</h1>
 
 </div>
+
+<div>
+<h1  align="center" >
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="20px" hight="20px" /></h1>
+</div>
+
 ### :technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
